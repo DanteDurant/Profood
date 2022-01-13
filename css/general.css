@@ -62,8 +62,8 @@ Medium: 11px
 
 :root {
   --clr-pri: rgb(0, 173, 0);
-  --clr-pri-lighter: rgb(226, 255, 226);
-  --clr-pri-light: rgb(178, 252, 178);
+  --clr-pri-lighter: rgb(226, 226, 255);
+  --clr-pri-light: rgb(191, 178, 252);
   --clr-pri-dark: green;
 
   --clr-pri-shade: rgb(0, 92, 0);
